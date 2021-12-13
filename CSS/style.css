@@ -1,0 +1,30 @@
+.navbar{
+    background-color: rgba(90, 212, 90, 0.486);
+}
+.aderir{
+    padding-top: 10px;
+    background-color: rgba(6, 141, 96, 0.466);
+    padding-bottom: 20px;
+    color: rgb(31, 73, 31);
+    font-family: cursive;
+}
+.explicação{
+    font-family: cursive;
+    padding-top: 5px;
+    padding-left: 300px;
+    padding-right: 300px;
+    color: rgba(40, 75, 7, 0.986);
+}
+.historia{
+    background-color: rgba(6, 141, 96, 0.466);
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+.dolar1{
+    padding-top: 47px;
+}
+.rodape{
+    background-color: rgb(218, 238, 227);
+    font-style: italic;
+    font-family: monospace;
+}
